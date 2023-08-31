@@ -3,3 +3,5 @@ Developed a feature-rich e-commerce website for TechCult, encompassing user-frie
 
 Technologies Used:
 HTML, CSS, JavaScript, PHP, MySQL, XAMPP, Visual Studio Code, Figma, Responsive Design, User Authentication, Database Management, Deployment.
+
+https://tech-cult.000webhostapp.com/index.php
